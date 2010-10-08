@@ -6,6 +6,10 @@ Script to quickly change your Airport's MAC address.
 Some wifi hotspots give a limited connection time or bandwith for each device by
 looking its MAC address, so with this gem you may get a new MAC address and get connected again.
 
+## Installation
+
+    gem install airport_mac_change
+
 ## Usage:
 
 Execute
